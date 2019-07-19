@@ -3,7 +3,7 @@
   "description": "A personal card for Double D",
   "author": "Double D",
   "version": "1.0.0",
-  "homepage": "https://github.com/dubldee/giru",
+  "homepage": "https://github.com/dubldee/",
   "license": "CC-BY-4.0",
   "main": "/bin/card.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "files": [
     "bin/card.js",
-    "bin/output"
+    "bin/out"
   ],
   "repository": {
     "type": "git",
